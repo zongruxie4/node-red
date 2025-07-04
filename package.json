@@ -79,7 +79,7 @@
         "tough-cookie": "5.1.2",
         "uglify-js": "3.19.3",
         "uuid": "9.0.1",
-        "ws": "7.5.10",
+        "ws": "8.18.2",
         "xml2js": "0.6.2"
     },
     "optionalDependencies": {
