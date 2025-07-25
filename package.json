@@ -43,7 +43,7 @@
         "denque": "2.1.0",
         "express": "4.21.2",
         "express-session": "1.18.1",
-        "form-data": "4.0.2",
+        "form-data": "4.0.4",
         "fs-extra": "11.3.0",
         "got": "12.6.1",
         "hash-sum": "2.0.0",
