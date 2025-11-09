@@ -117,7 +117,7 @@
         "node-red-node-test-helper": "^0.3.3",
         "nodemon": "3.1.9",
         "proxy": "^1.0.2",
-        "sass": "1.62.1",
+        "sass": "1.89.2",
         "should": "13.2.3",
         "sinon": "11.1.2",
         "stoppable": "^1.1.0",
